@@ -1,4 +1,4 @@
-package exercise_demo_addtwonumbers;
+package exercise.demo.addtwonumbers;
 /**
  * 定义的单向链表
  * @author aimasa

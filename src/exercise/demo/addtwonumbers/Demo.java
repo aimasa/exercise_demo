@@ -1,4 +1,4 @@
-package exercise_demo_addtwonumbers;
+package exercise.demo.addtwonumbers;
 
 
 public class Demo {
