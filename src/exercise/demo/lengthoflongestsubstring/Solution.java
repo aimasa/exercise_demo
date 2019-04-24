@@ -1,4 +1,4 @@
-package exercise.demo.lengthOfLongestSubstring;
+package exercise.demo.lengthoflongestsubstring;
 
 import java.util.Set;
 import java.util.HashMap;

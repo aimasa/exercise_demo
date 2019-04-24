@@ -1,4 +1,4 @@
-package exercise.demo.lengthOfLongestSubstring;
+package exercise.demo.lengthoflongestsubstring;
 
 public class test {
     public static void main(String[] args) {
