@@ -1,8 +1,7 @@
 package exercise.demo.findmediansortedarrays;
 
 /**
- * 对两个有序数列找到其中数
- * (注释掉的是自己写的，没有注释的是官方解法)
+ * 对两个有序数列找到其中数 (注释掉的是自己写的，没有注释的是官方解法)
  * 
  * @author zhy
  *
@@ -21,25 +20,42 @@ public class FindMedianSortedArrays {
 		}
 		int iMin = 0;
 		int iMax = s1;
-		int halfLen = (s1 + s2) / 2;
+		int halfLen = (s1 + s2 + 1) / 2;
 		while (iMax >= iMin) {
 			int tempS1 = (iMin + iMax) / 2;
 			int tempS2 = halfLen - tempS1;
 			if (tempS1 > iMin && nums1[tempS1 - 1] > nums2[tempS2]) {
 				iMax = tempS1 - 1;
-			} else if (tempS1 < iMax && nums2[tempS2 - 1] > nums1[tempS1]) {
+			} else if (tempS1 < iMax && nums2[tempS2 - 1] > nums1[tempS1]) {// 前面的条件是防止越界的
 				iMin = tempS1 + 1;
 			} else {
 				int leftNum = 0;
-				if(tempS2 == 0) {
-
-				}
-				else if (((s1 + s2) & 1) != 0) {
-					return Math.max(nums1[tempS1], nums2[tempS2]);
+				int rightNum = 0;
+				if (tempS1 == 0) {
+					leftNum = nums2[tempS2 - 1];
+				} else if (tempS2 == 0) {
+					leftNum = nums1[tempS1 - 1];
 				} else {
-					return (Math.max(nums1[tempS1 - 1], nums2[tempS2 - 1])
-							+ Math.min(nums1[tempS1], nums2[tempS2])) / 2.0;
+					leftNum = Math.max(nums1[tempS1 - 1], nums2[tempS2 - 1]);
 				}
+				if (((s1 + s2) & 1) != 0) {
+					return leftNum;
+				}
+				if (tempS2 == s2) {
+					rightNum = nums1[tempS1];
+				} else if (tempS1 == s1) {
+					rightNum = nums2[tempS2];
+				} else {
+					Math.min(nums1[tempS1], nums2[tempS2]);
+				}
+
+				return (leftNum + rightNum) / 2.0;
+//				else if (((s1 + s2) & 1) != 0) {
+//					return Math.max(nums1[tempS1], nums2[tempS2]);
+//				} else {
+//					return (Math.max(nums1[tempS1 - 1], nums2[tempS2 - 1])
+//							+ ) / 2.0;
+//				}
 			}
 		}
 		return 0.0;
