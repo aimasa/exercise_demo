@@ -1,5 +1,10 @@
 package exercise.demo.longestpalindrome;
 
+/**
+ * 求最长回文串，用的是Manacher's algorithm算法
+ * @author Mloong
+ *
+ */
 public class LongestPalindrome {
 	public String longestPalindrome(String s) {
 		if (s == null || s.length() < 1) {

@@ -1,5 +1,10 @@
 package exercise.demo.longestpalindrome;
 
+/**
+ * ±©Á¦ÆÆ½â
+ * @author Mloong
+ *
+ */
 public class Solution {
 	public String longestPalindrome(String s) {
 		String strData = preStrData(s);
