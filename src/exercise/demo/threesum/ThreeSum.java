@@ -11,7 +11,6 @@ public class ThreeSum {
         if (nums == null || nums.length < 3) {
             return resultNumList;
         }
-        int re = 1;
         for (int i = 0; i < nums.length; i++) {
             
             int right = i + 1;
