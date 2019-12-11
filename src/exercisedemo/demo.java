@@ -11,8 +11,12 @@ public class demo {
 //		setList.add("123");
 //		System.out.println(setList);
 		
-		String string = "aimasa.club/";
-		Integer t = 5;
-		System.out.println(string.concat(t.toString()));
+//		String string = "aimasa.club/";
+//		Integer t = 5;
+//		System.out.println(string.concat(t.toString()));
+//    	String str = "123";
+//    	str = str.concat(str);
+        Object object = "test";
+        System.out.println(String.valueOf(object));
 	}
 }
