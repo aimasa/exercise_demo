@@ -14,7 +14,9 @@ public class demo {
 //		String string = "aimasa.club/";
 //		Integer t = 5;
 //		System.out.println(string.concat(t.toString()));
-    	String str = "123";
-    	str = str.concat(str);
+//    	String str = "123";
+//    	str = str.concat(str);
+        Object object = "test";
+        System.out.println(String.valueOf(object));
 	}
 }
