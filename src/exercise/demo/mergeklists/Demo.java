@@ -22,7 +22,7 @@ public class Demo {
 //        listNode5.next = listNode6;
         ListNode listNode9 = new ListNode(-1);
 
-        MergeKLists mergeKLists = new MergeKLists();
+        MergeKLists mergeKLists = new Re2MergeKLists();
         ListNode[] array = { listNode, listNode7, listNode5 };
 
         ListNode[] array1 = {};

@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ad2accd-3f9e-4481-92c1-bde24bcfce0c" name="Default Changelist" comment="" />
+    <list default="true" id="1ad2accd-3f9e-4481-92c1-bde24bcfce0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/canjump/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/generate/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/jump/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/maxarea/MaxArea1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/merge/mergeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/mergeklists/Re2MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/mergeklists/reMergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/numIslands/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/numIslands/NewNumIsLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/numIslands/NumLslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/numberofsubarrays/NumberOfSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/permute/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/rightsideview/RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/rightsideview/SimpleRightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/search/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/search/SearchTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/treebased/levelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/uniquepaths/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/updatematrix/UpdateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekcom/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekcom/Reformat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/ArrangeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/DestCitydestCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/IsPrefixOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/LongestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/MaxVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/PeopleIndexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/weeklycom/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zbishi/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zbishi/小D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zijietiaodong/万万没想到之抓捕孔连顺.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zijietiaodong/万万没想到之聪明的编辑.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/demo/zijietiaodong/雀魂启动.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercise/demo/longestpalindrome/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercise/demo/longestpalindrome/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/demo/longestpalindrome/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/demo/longestpalindrome/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/demo/maxarea/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/demo/maxarea/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/demo/mergeklists/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/demo/mergeklists/Demo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +73,133 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.MaxVowels">
+    <configuration name="ArrangeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.weekly.ArrangeWords" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.weekly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPrefixOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.weekly.IsPrefixOfWord" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.weekly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.weekly.MaxVowels" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.weekly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.weekly.Solution" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.weekly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.weekly.ThreeSum" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.weekly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="exercise_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="万万没想到之抓捕孔连顺" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.zijietiaodong.万万没想到之抓捕孔连顺" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.zijietiaodong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="万万没想到之抓捕孔连顺" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.demo.zijietiaodong.万万没想到之抓捕孔连顺" />
+      <module name="exercise_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.demo.zijietiaodong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ArrangeWords" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.IsPrefixOfWord" />
+      <item itemvalue="Application.MaxVowels" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxVowels" />
+        <item itemvalue="Application.IsPrefixOfWord" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.ArrangeWords" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,6 +212,40 @@
       <option name="presentableId" value="Default" />
       <updated>1580203468405</updated>
       <workItem from="1580203480627" duration="65000" />
+      <workItem from="1580781889931" duration="5389000" />
+      <workItem from="1586869765162" duration="1129000" />
+      <workItem from="1586870948544" duration="304000" />
+      <workItem from="1586871293857" duration="217000" />
+      <workItem from="1586871552315" duration="2521000" />
+      <workItem from="1586874201236" duration="26000" />
+      <workItem from="1586943650352" duration="7055000" />
+      <workItem from="1587025446767" duration="8448000" />
+      <workItem from="1587125866516" duration="1490000" />
+      <workItem from="1587215380864" duration="1146000" />
+      <workItem from="1587265416334" duration="8767000" />
+      <workItem from="1587383269644" duration="3691000" />
+      <workItem from="1587477167888" duration="5057000" />
+      <workItem from="1587558472350" duration="1982000" />
+      <workItem from="1587824941777" duration="1353000" />
+      <workItem from="1587903884889" duration="7686000" />
+      <workItem from="1587991912630" duration="7710000" />
+      <workItem from="1588253815121" duration="817000" />
+      <workItem from="1588397024975" duration="20282000" />
+      <workItem from="1588474969235" duration="4372000" />
+      <workItem from="1588576733868" duration="2135000" />
+      <workItem from="1589032842990" duration="7880000" />
+      <workItem from="1589081721147" duration="18771000" />
+      <workItem from="1589121613293" duration="6406000" />
+      <workItem from="1589159730692" duration="6158000" />
+      <workItem from="1589167715565" duration="2442000" />
+      <workItem from="1589206843598" duration="2680000" />
+      <workItem from="1589334654506" duration="640000" />
+      <workItem from="1589337977991" duration="2094000" />
+      <workItem from="1589629246780" duration="761000" />
+      <workItem from="1589685198846" duration="10835000" />
+      <workItem from="1589777944433" duration="6498000" />
+      <workItem from="1589984988795" duration="2585000" />
+      <workItem from="1590289793159" duration="3713000" />
     </task>
     <servers />
   </component>
@@ -39,9 +253,321 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580203483630">
+    <state x="551" y="187" key="#HTTP_Proxy" timestamp="1586874006082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580203483630" />
+    <state x="551" y="187" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1586874006082" />
+    <state x="631" y="182" key="#Project_Structure" timestamp="1586871617477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586871617477" />
+    <state x="484" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586870360898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586870360898" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586870353007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586870353007" />
+    <state width="458" height="466" key="DebuggerActiveHint" timestamp="1589784468289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="458" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1589784468289" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589335430143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589335430143" />
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1590292683067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683067" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1590292683067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683067" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1590292683067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683067" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1590292683067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683067" />
+    <state width="1877" height="222" key="GridCell.Tab.1.bottom" timestamp="1590292683280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683280" />
+    <state width="1877" height="222" key="GridCell.Tab.1.center" timestamp="1590292683280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683280" />
+    <state width="1877" height="222" key="GridCell.Tab.1.left" timestamp="1590292683280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683280" />
+    <state width="1877" height="222" key="GridCell.Tab.1.right" timestamp="1590292683280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590292683280" />
+    <state x="725" y="242" key="RollbackChangesDialog" timestamp="1589724174574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="242" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589724174574" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589338015750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589338015750" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1590289796263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590289796263" />
+    <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1587033088995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="119" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587033088995" />
+    <state x="334" y="130" key="new project wizard" timestamp="1586874025005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586874025005" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589985533354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589985533354" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589164230116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589164230116" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/addtwonumbers2/AddTwoNumbers.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/merge/mergeBlock.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/canjump/CanJump.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/maxarea/MaxArea1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekcom/Reformat.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekcom/Reformat.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekcom/Reformat.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/numIslands/NumLslands.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/numIslands/NumLslands.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/numIslands/NewNumIsLand.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/numberofsubarrays/NumberOfSubarrays.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/mergeklists/reMergeKLists.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/mergeklists/Re2MergeKLists.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/mergeklists/Re2MergeKLists.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/search/search.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/search/search.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/search/search.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/search/search.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/LengthOfLongestSubstring.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/lengthoflongestsubstring/LengthOfLongestSubstring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/LongestSubarray.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/jump/Jump.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zijietiaodong/万万没想到之抓捕孔连顺.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zijietiaodong/雀魂启动.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zijietiaodong/雀魂启动.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zijietiaodong/雀魂启动.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/zbishi/简单/Main.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jrt://D:/idea/IntelliJ IDEA 2019.3.2/jbr!/java.base/java/lang/Integer.class</url>
+          <line>128</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/ThreeSum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/IsPrefixOfWord.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/IsPrefixOfWord.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/demo/weekly/MaxVowels.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="chars[schar[i]]" />
+        <watch expression="schar[i]" />
+        <watch expression="site[right]" />
+        <watch expression="pai[i]" />
+        <watch expression="nums.length - 1" />
+        <watch expression="left + 2 &lt; nums.length &amp;&amp; nums[left + 1] != 0 &amp;&amp; nums[left + 2] != 0" />
+        <watch expression="text.length() - kCorr" />
+        <watch expression="text.delete(text.length() - numK, text.length())" language="JAVA" />
+        <watch expression="text.delete(text.length() - numK, text.length())" />
+        <watch expression="str.substring(right, right + dic[i].length())" />
+        <watch expression="strNum[temp.length() - 1]" />
+        <watch expression="temp.indexOf(left)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -13,11 +13,11 @@ public class Solution {
 //	int j = 0;
 //		int ans = 0;
 //	while(i < length && j < length) {
-//		if(!set.contains(s.charAt(j))) {//¶ÔjÖ¸ÏòµÄÔªËØÅÐ¶ÏÊÇ·ñ±»°üº¬
+//		if(!set.contains(s.charAt(j))) {//ï¿½ï¿½jÖ¸ï¿½ï¿½ï¿½Ôªï¿½ï¿½ï¿½Ð¶ï¿½ï¿½Ç·ñ±»°ï¿½ï¿½ï¿½
 //			set.add(s.charAt(j++));
 //			ans = Math.max(ans, j-i);
 //			
-//		}else {//jÖ¸ÏòµÄÔªËØÃ»ÓÐ±»°üº¬Ê±ºò£¬ÒÆ³ý×îÇ°ÃæµÄi£¬µ«ÊÇj²»±ä£¬»á·µ»ØÈ¥ÔÙÅÐ¶ÏÒ»´Î¡£
+//		}else {//jÖ¸ï¿½ï¿½ï¿½Ôªï¿½ï¿½Ã»ï¿½Ð±ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Æ³ï¿½ï¿½ï¿½Ç°ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ä£¬ï¿½á·µï¿½ï¿½È¥ï¿½ï¿½ï¿½Ð¶ï¿½Ò»ï¿½Î¡ï¿½
 //			set.remove(s.charAt(i++));
 //		}
 //	}
@@ -28,7 +28,7 @@ public class Solution {
 		Map<Character, Integer> set = new HashMap<>();
 		for (int i = 0, j = 0; j < length; j++) {
 			if (set.containsKey(s.charAt(j))) {
-				i = Math.max(set.get(s.charAt(j)), i);//iÓÀÔ¶Ö¸Ïò´æÔÚÏàÍ¬ÔªËØµÄÎ»ÖÃµÄÇ°Ò»Î»£¬ÒòÎªºóÃæ»¹»á¶Ô¸ÃÔªËØ¶ÔÓ¦µÄÎ»ÖÃ½øÐÐ¸ü¸Ä¡£
+				i = Math.max(set.get(s.charAt(j)), i);
 			} 
 				set.put(s.charAt(j), j+1);
 				ans = Math.max(ans, j - i + 1);
