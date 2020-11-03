@@ -1,7 +1,6 @@
 package exercisedemo;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class demo {
     public static void main(String[] args) {
@@ -16,7 +15,11 @@ public class demo {
 //		System.out.println(string.concat(t.toString()));
 //    	String str = "123";
 //    	str = str.concat(str);
-        Object object = "test";
-        System.out.println(String.valueOf(object));
-	}
+        String s = "1111111";
+        System.out.println(s.substring(2, 3));
+        HashMap<Integer, List<Integer>> map = new HashMap<>();
+        Queue<String> queEnd = new LinkedList<>();
+        List<String> tmp = new ArrayList<>();
+        queEnd.addAll(tmp);
+    }
 }
